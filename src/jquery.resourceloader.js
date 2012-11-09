@@ -1,5 +1,5 @@
 /**
- * Usage: $.ResourceLoader(['css.css','test.js'], { onlyOnce : true, //是否只加载一次});
+ * Usage: $.ResourceLoader(['css.css','test.js'], { onlyOnce : true //是否只加载一次});
  * 
  * @author Teemo.Liu
  * @version 1.3.0
