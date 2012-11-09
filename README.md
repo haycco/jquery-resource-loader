@@ -1,4 +1,6 @@
 jQuery Resource Loader Plugin
+
+
 This jquery plugin can help you load resources (js/css) when visit web page in any time.
 =============
 
